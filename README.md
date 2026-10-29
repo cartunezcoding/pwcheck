@@ -45,11 +45,6 @@ python -m unittest
 3. Remove points for weak patterns (sequences, repeats, few unique characters).
 4. Give an instant `0` to well-known passwords.
 
-## Roadmap
-
-- [ ] Check against a bigger common-password list
-- [ ] Generate a strong random password
-- [ ] Colored output
 
 ## License
 
